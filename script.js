@@ -41,3 +41,4 @@ function updatePosition() {
 }
 
 // เริ่มต้นการเคลื่อนไหว
+  updatePosition();
