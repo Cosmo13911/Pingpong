@@ -22,7 +22,7 @@ body {
     font-size: 35px;
     font-weight: 900;
     opacity: 0;
-    transition: opacity 1s ease-in;
+    transition: opacity 0.25s ease-in;
 }
 
 .pingpong.visible {
