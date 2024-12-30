@@ -30,7 +30,7 @@ body {
 }
 
 .video {
-    margin: -10px 5px 10px 20px;
+    margin: -10px 5px 5px 20px;
     border-radius : 5px;
 }
 
@@ -67,4 +67,11 @@ body, html {
   background-color: orange;
   border-radius: 50%;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.points {
+    text-align : center;
+    color : white;
+    font-size:60px;
+    font-weight: 900;
 }
