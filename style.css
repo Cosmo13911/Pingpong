@@ -21,7 +21,7 @@ body {
     color: white;
     font-size: 35px;
     font-weight: 900;
-    opacity: 0;
+    opacity: 1;
     transition: opacity 0.25s ease-in;
 }
 
