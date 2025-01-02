@@ -15,10 +15,6 @@ body {
     background-color :#0e2a42 ;
 }
 
-.teacher {
-    font-size : 20px;
-}
-
 .pingpong {
     text-align: center;
     padding-top:50%;
@@ -29,10 +25,10 @@ body {
     transition: opacity 0.25s ease-in;
 }
 
-.pingpong.visible {
-    opacity: 1;
+.teacher {
+    font-size : 20px;
 }
-
+    
 .video {
     margin: -10px 5px 5px 20px;
     border-radius : 5px;
